@@ -4,70 +4,48 @@
     <img src="https://i.ibb.co/stqTkc6/video-call.png" alt="Logo" width="250" height="200">
   </a>
 
-  <h3 align="center">Codar.</h3>
+  <h3 align="center" style="color: #D6000D;">Codar.</h3>
 
   <p align="center">
     Site de uma empresa que desenvolve sites
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/codar">Desafio</a>
+    <!-- <a href="https://github.com/Lorenalgm/codar">Desafio</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
+    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a> -->
   </p>
 </p>
 
 ## Índice
 
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
+* [DevChallenge](#devchallenge) 
+* [Sobre](#sobre)
+* [Layout](#layout)
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador!
 
-# Desafio
-Seu desafio é criar uma página sobre uma empresa que desenvolve sites. O modelo final está disponível na pasta "design"
+# Sobre
+Codar é uma empresa especializada no mercado de trabalho, visando comprometimento com seus clientes através do desenvolvimento de websites para empreendendorismos.
+
+
+# Layout
 
 <img src="https://i.ibb.co/2gB9Hkc/codar-mobile.png" width="380" height="380">
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
-# Techs: 
-HTML<br>
-CSS
 
-# Como começar:
-1 - Use esse template ou clone esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+## :link: Como contribuir 
 
-# Requisitos:
-- Sua página deve se parecer o mais próximo possível ao modelo que está disponível na pasta "design"<br>
-- Sua página deve ser responsiva
+- Faça um Fork do repositório
+- Clone o seu repositório
+- Crie uma branch com a sua feature
+- Faça um commit com suas mudanças
+- 'Push' a sua branch
+- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
 
-# Dicas
-## Cores:
-Vermelho: #D6000D
+## Licença 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Modelo:
-O modelo está disponível na pasta `./design`<br>
 
-## Imagens
-As imagens utilizadas estão disponíveis na pasta `./assets`<br>
-Para os ícones, é recomendada a utilização de uma biblioteca, como o Font Awesome
-
-## Tipo de fonte:
-- Roboto
-
-# Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-
-Criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+# Créditos
+Projeto estruturado por <a href="https://github.com/Lorenalgm">Lorenalgm</a> (DevChallenge)
+Desenvolvido por <a href="https://github.com/ThiaguinNerd">ThiaguinNerd</a> 
