@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Roboto, sans-serif;
+}
+
+header {
+	margin:  1rem;
+}
+
+.logotipo {
+	color: #D6000D;
+	font-style: italic;
+}
+
+.logotipo-final {
+	color: #000;
+	
+}
