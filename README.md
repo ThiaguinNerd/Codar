@@ -16,33 +16,22 @@
   </p>
 </p>
 
-## Índice
+## :link: Índice
 
-* [DevChallenge](#devchallenge) 
 * [Sobre](#sobre)
-* [Layout](#layout)
+* [Layout](#layout-base)
 
 
 # Sobre
 Codar é uma empresa especializada no mercado de trabalho, visando comprometimento com seus clientes através do desenvolvimento de websites para empreendendorismos.
 
 
-# Layout
-
+# Layout-base
 <img src="https://i.ibb.co/2gB9Hkc/codar-mobile.png" width="380" height="380">
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
 
-## :link: Como contribuir 
-
-- Faça um Fork do repositório
-- Clone o seu repositório
-- Crie uma branch com a sua feature
-- Faça um commit com suas mudanças
-- 'Push' a sua branch
-- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
-
-## Licença 
+# Licença 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
