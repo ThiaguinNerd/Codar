@@ -5,15 +5,95 @@
 }
 
 header {
-	margin:  1rem;
+	margin:  3rem;
 }
 
 .logotipo {
 	color: #D6000D;
 	font-style: italic;
+	display: block;
+	float: left;
+	font-size: 24px;
 }
 
 .logotipo-final {
 	color: #000;
 	
+}
+
+li.lista-item {
+	display: inline;
+}
+
+ul.navbar-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.menu-item {
+  display: block;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: black;
+}
+
+.login-button, .CTA-button {
+	background-color: #D6000D;
+	border-radius: 5px;
+	padding: 0.5rem 3rem;
+	border: 2px solid #D6000D;
+	color: white;
+}
+
+div.navbar {
+	display: flex;
+	justify-content: space-between;
+	width: calc(35%);
+}
+
+
+/* FACHADA - CALL TO ACTION */
+
+article {
+	display: block;
+	height: 100%;
+}
+
+section.section-CTA {
+	margin: 7rem 5rem;
+	padding: 5rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+aside {
+	width: 50%;
+}
+
+aside.image-title {
+	background-image: url('../video_call.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+}
+
+aside.CTA-title {
+	margin: 1rem;
+	padding: 4rem;
+}
+
+h2.title-destaque {
+	font-size: 3rem;
+	color: #D6000D;
+	margin: 0 0 2rem;
+}
+
+.CTA-button {
+	margin: 2rem 0;
 }
