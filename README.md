@@ -47,5 +47,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 # Créditos
-Projeto estruturado por <a href="https://github.com/Lorenalgm">Lorenalgm</a> (DevChallenge)
+Projeto estruturado por <a href="https://github.com/Lorenalgm">Lorenalgm</a> (DevChallenge)<br>
 Desenvolvido por <a href="https://github.com/ThiaguinNerd">ThiaguinNerd</a> 
